@@ -102,8 +102,5 @@ public class OnePerson_Main {
     people[18].start();
     people[19].start();
 */
-
-
-
   }
 }
